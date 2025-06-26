@@ -1,0 +1,14 @@
+ui:
+  theme: "dark"
+  logo_path: "docs/assets/logo.png"
+  logo_position: "top-left"
+
+version:
+  current: "v1.0.0"
+  release_date: "2025-06-27"
+
+branding:
+  favicon: "docs/assets/favicon.ico"
+
+users:
+  admin_roles: ["admin", "superuser"]

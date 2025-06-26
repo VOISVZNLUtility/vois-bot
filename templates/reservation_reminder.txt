@@ -1,0 +1,10 @@
+Subject: Reservation Reminder – VOIS Bot
+
+Hi {{user}},
+
+This is a friendly reminder that your test data reservation for "{{test_name}}" will expire on {{expires_on}}.
+
+Please take any necessary action before the expiry date.
+
+Thanks,  
+VOIS Bot Team

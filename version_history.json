@@ -1,0 +1,12 @@
+[
+  {
+    "version": "v1.0.0",
+    "date": "2025-06-27",
+    "highlights": [
+      "Initial release with Admin Panel",
+      "Test data reservation system with expiry and notifications",
+      "Session tracking and analytics dashboard",
+      "Dark/light theme toggle and version display"
+    ]
+  }
+]

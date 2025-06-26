@@ -1,0 +1,6 @@
+streamlit
+langchain
+ollama
+pandas
+pyyaml
+watchdog
